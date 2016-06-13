@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">RandomNumberGenerator</string>
+    <string name="action_generate">Generate</string>
+    <string name="random_number_default">000</string>
 </resources>
